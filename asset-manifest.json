@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/babadairyfar/static/css/main.e80ada15.css",
+    "main.js": "/babadairyfar/static/js/main.08a941f1.js",
+    "static/js/787.7e6e4fcb.chunk.js": "/babadairyfar/static/js/787.7e6e4fcb.chunk.js",
+    "index.html": "/babadairyfar/index.html",
+    "main.e80ada15.css.map": "/babadairyfar/static/css/main.e80ada15.css.map",
+    "main.08a941f1.js.map": "/babadairyfar/static/js/main.08a941f1.js.map",
+    "787.7e6e4fcb.chunk.js.map": "/babadairyfar/static/js/787.7e6e4fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80ada15.css",
+    "static/js/main.08a941f1.js"
+  ]
+}
